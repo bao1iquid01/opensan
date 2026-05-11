@@ -1,1 +1,2 @@
-# opensan
+# <p align="center"> ![sasanychoslogonew](https://lh3.googleusercontent.com/sitesv/AA5AbUCy6yVki_1uVW-R9HH0x2hCwPWjQcoNqJGWXL9RdMWWfmaUYkGJAjPpZFtV0V8TWYkhri7ZjFIeSjVE4xAHAcgs-UDw72S9JsaGQe_Ujnxo-ZZdT5H1Or6mGWd9TgpxRf9Cm2zKJhNdMCaeGbk6C0FMGtiPCXEITQm7Y2OoI-mH2KnmKDDwdStjGwzXtWKMbw6JEWPzSP9WNbA1qo7UbkWOX46a5XpLjZ1C=w1280) <br>opensan</p>
+<p align="center">Open-source scripts/utils/parts of code from <code>sasanychOS</code> project.</p>
